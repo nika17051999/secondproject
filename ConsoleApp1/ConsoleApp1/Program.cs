@@ -3,3 +3,5 @@ using System.Net.Security;
 
 Console.WriteLine("Hello, World!");
 Console.WriteLine( " hello ");
+Console.WriteLine( );
+Console.WriteLine( );
